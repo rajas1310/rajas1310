@@ -1,6 +1,6 @@
 #### Hi, I’m Rajas! :computer:
 
-- :robot: I’m interested in Computer Vision and Deep Learning.
+- :robot: I’m interested in Machine Learning, Data Science, Computer Vision and Deep Learning.
 <!--:chart_with_upwards_trend: I’m currently working on projects based on Convolution Neural Networks and Computer Vision.-->
 <!--- - 💞️ I’m looking to collaborate on ...--->
 - 📫 How to reach me: rajaschitale@gmail.com 
